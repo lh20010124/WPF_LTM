@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D80F4B-3991-4530-BFCF-F9F232D68EE9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30D80F4B-3991-4530-BFCF-F9F232D68EE9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:42:35.642Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
