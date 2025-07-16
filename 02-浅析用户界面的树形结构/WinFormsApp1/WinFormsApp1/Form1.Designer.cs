@@ -32,8 +32,7 @@
             textBox2 = new TextBox();
             textBox3 = new TextBox();
             textBox4 = new TextBox();
-            textBox5 = new TextBox();
-            textBox6 = new TextBox();
+            button1 = new Button();
             SuspendLayout();
             // 
             // textBox1
@@ -47,7 +46,7 @@
             // textBox2
             // 
             textBox2.Font = new Font("Microsoft YaHei UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox2.Location = new Point(12, 139);
+            textBox2.Location = new Point(12, 156);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(1786, 89);
             textBox2.TabIndex = 1;
@@ -68,29 +67,22 @@
             textBox4.Size = new Size(896, 89);
             textBox4.TabIndex = 3;
             // 
-            // textBox5
+            // button1
             // 
-            textBox5.Font = new Font("Microsoft YaHei UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox5.Location = new Point(12, 502);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(1786, 89);
-            textBox5.TabIndex = 4;
-            // 
-            // textBox6
-            // 
-            textBox6.Font = new Font("Microsoft YaHei UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox6.Location = new Point(12, 678);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(1786, 89);
-            textBox6.TabIndex = 5;
+            button1.Location = new Point(12, 494);
+            button1.Name = "button1";
+            button1.Size = new Size(1786, 46);
+            button1.TabIndex = 4;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(14F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1810, 922);
-            Controls.Add(textBox6);
-            Controls.Add(textBox5);
+            BackColor = SystemColors.Highlight;
+            ClientSize = new Size(1810, 592);
+            Controls.Add(button1);
             Controls.Add(textBox4);
             Controls.Add(textBox3);
             Controls.Add(textBox2);
@@ -107,7 +99,6 @@
         private TextBox textBox2;
         private TextBox textBox3;
         private TextBox textBox4;
-        private TextBox textBox5;
-        private TextBox textBox6;
+        private Button button1;
     }
 }
