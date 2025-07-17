@@ -1,0 +1,23 @@
+﻿<Window x:Class="LabelExpansionWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabelExpansion_StaticResourceWPF"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="240"
+        Width="400">
+    <Window.Resources>
+        <sys:String x:Key="stringHello">
+            Hello WPF!
+        </sys:String>
+    </Window.Resources>
+    <Grid>
+        <TextBlock Height="24"
+                   Width="120"
+                   Background="LightBlue"
+                   Text="{StaticResource ResourceKey=stringHello}" />
+    </Grid>
+</Window>

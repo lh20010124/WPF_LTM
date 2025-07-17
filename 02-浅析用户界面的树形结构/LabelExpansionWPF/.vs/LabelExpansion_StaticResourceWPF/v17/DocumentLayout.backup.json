@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\LabelExpansionWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB3C71B-B67E-4CF4-A496-78E0A57F0E89}|LabelExpansionWPF\\LabelExpansionWPF.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\labelexpansionwpf\\labelexpansionwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB3C71B-B67E-4CF4-A496-78E0A57F0E89}|LabelExpansionWPF\\LabelExpansionWPF.csproj|solutionrelative:labelexpansionwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB3C71B-B67E-4CF4-A496-78E0A57F0E89}|LabelExpansionWPF\\LabelExpansionWPF.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\labelexpansionwpf\\labelexpansionwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DB3C71B-B67E-4CF4-A496-78E0A57F0E89}|LabelExpansionWPF\\LabelExpansionWPF.csproj|solutionrelative:labelexpansionwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\LabelExpansionWPF\\LabelExpansionWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabelExpansionWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\LabelExpansionWPF\\LabelExpansionWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LabelExpansionWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T04:55:57.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\LabelExpansionWPF\\LabelExpansionWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabelExpansionWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\02-\u6D45\u6790\u7528\u6237\u754C\u9762\u7684\u6811\u5F62\u7ED3\u6784\\LabelExpansionWPF\\LabelExpansionWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabelExpansionWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:55:57.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
