@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4339F80D-4AD0-4D74-886E-BC8D6331DA7C}|HappyWPF\\HappyWPF.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001xaml\u6CE8\u91CA\\happywpf\\happywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4339F80D-4AD0-4D74-886E-BC8D6331DA7C}|HappyWPF\\HappyWPF.csproj|solutionrelative:happywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C829D-C3FC-4BB4-BB37-C9B718B16A97}|ControlLibrary\\ControlLibrary.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001xaml\u6CE8\u91CA\\happywpf\\controllibrary\\salarycalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C829D-C3FC-4BB4-BB37-C9B718B16A97}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\salarycalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4339F80D-4AD0-4D74-886E-BC8D6331DA7C}|HappyWPF\\HappyWPF.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001xaml\u6CE8\u91CA\\happywpf\\happywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4339F80D-4AD0-4D74-886E-BC8D6331DA7C}|HappyWPF\\HappyWPF.csproj|solutionrelative:happywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C829D-C3FC-4BB4-BB37-C9B718B16A97}|ControlLibrary\\ControlLibrary.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001xaml\u6CE8\u91CA\\happywpf\\controllibrary\\salarycalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D9C829D-C3FC-4BB4-BB37-C9B718B16A97}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\salarycalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryCalculator.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\ControlLibrary\\SalaryCalculator.xaml.cs",
+              "RelativeDocumentMoniker": "ControlLibrary\\SalaryCalculator.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\ControlLibrary\\SalaryCalculator.xaml.cs",
+              "RelativeToolTip": "ControlLibrary\\SalaryCalculator.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:31:51.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\HappyWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HappyWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\HappyWPF\\MainWindow.xaml",
+              "RelativeToolTip": "HappyWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T06:21:29.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaryCalculator.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\ControlLibrary\\SalaryCalculator.xaml",
+              "RelativeDocumentMoniker": "ControlLibrary\\SalaryCalculator.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\ControlLibrary\\SalaryCalculator.xaml",
+              "RelativeToolTip": "ControlLibrary\\SalaryCalculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T06:25:05.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\HappyWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HappyWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\03-\u4E8B\u4EF6\u5904\u7406\u5668\u3001\u540D\u79F0\u7A7A\u95F4\u3001XAML\u6CE8\u91CA\\HappyWPF\\HappyWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HappyWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:21:29.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
