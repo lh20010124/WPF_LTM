@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HappyWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16ef7610bb11213a17083111a5c35a8f068daca3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e29c3057f0357c1f38b0bad4ada6566c8cfa966")]
 [assembly: System.Reflection.AssemblyProductAttribute("HappyWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HappyWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

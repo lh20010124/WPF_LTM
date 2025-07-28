@@ -25,12 +25,9 @@ namespace ControlLibrary
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void button1_Click(object sender, RoutedEventArgs e)
         {
-            string str1 = this.textBox1.Text;
-            string str2 = this.textBox2.Text;
-            int result = Convert.ToInt32(str1) + Convert.ToInt32(str2);
-            this.textBox3.Text = Convert.ToString(result);
+            this.textBox3.Text = Convert.ToString(Convert.ToInt32(this.textBox1.Text) + Convert.ToInt32(this.textBox2.Text));
         }
     }
 }
