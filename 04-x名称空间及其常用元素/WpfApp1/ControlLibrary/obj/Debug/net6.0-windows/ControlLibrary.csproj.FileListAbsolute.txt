@@ -1,0 +1,17 @@
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\bin\Debug\net6.0-windows\ControlLibrary.deps.json
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\bin\Debug\net6.0-windows\ControlLibrary.dll
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\bin\Debug\net6.0-windows\ControlLibrary.pdb
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\MyControl.g.cs
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary_MarkupCompile.cache
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary_MarkupCompile.lref
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\MyControl.baml
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.g.resources
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.AssemblyInfoInputs.cache
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.AssemblyInfo.cs
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.csproj.CoreCompileInputs.cache
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.sourcelink.json
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.dll
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\refint\ControlLibrary.dll
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ControlLibrary.pdb
+D:\System\Desktop\StudyPlace\Code\03-WPF_Basic\01_WPF-LTM\WPF_LTM\04-x名称空间及其常用元素\WpfApp1\ControlLibrary\obj\Debug\net6.0-windows\ref\ControlLibrary.dll

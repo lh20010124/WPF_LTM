@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp3\\wpfapp3\\windowhappy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\windowhappy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp3\\wpfapp3\\windowhappy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\windowhappy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{079F1FDC-FC2F-46C1-BD4C-8D36055AE0F5}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowHappy.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\WindowHappy.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\WindowHappy.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\WindowHappy.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\WindowHappy.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:41:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowHappy.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\WindowHappy.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\WindowHappy.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\WindowHappy.xaml",
+              "RelativeToolTip": "WpfApp3\\WindowHappy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T07:35:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:25:17.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T07:25:17.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

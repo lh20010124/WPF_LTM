@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120F0B8E-C938-47D0-B697-BFD5CC431E74}|WpfApp1\\WpfApp1.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{120F0B8E-C938-47D0-B697-BFD5CC431E74}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120F0B8E-C938-47D0-B697-BFD5CC431E74}|WpfApp1\\WpfApp1.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120F0B8E-C938-47D0-B697-BFD5CC431E74}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66623807-4260-4237-AAB9-A55AD2F6C701}|ControlLibrary\\ControlLibrary.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp1\\controllibrary\\mycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66623807-4260-4237-AAB9-A55AD2F6C701}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\mycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66623807-4260-4237-AAB9-A55AD2F6C701}|ControlLibrary\\ControlLibrary.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp1\\controllibrary\\mycontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66623807-4260-4237-AAB9-A55AD2F6C701}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\mycontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66623807-4260-4237-AAB9-A55AD2F6C701}|ControlLibrary\\ControlLibrary.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp1\\controllibrary\\controllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66623807-4260-4237-AAB9-A55AD2F6C701}|ControlLibrary\\ControlLibrary.csproj|solutionrelative:controllibrary\\controllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120F0B8E-C938-47D0-B697-BFD5CC431E74}|WpfApp1\\WpfApp1.csproj|d:\\system\\desktop\\studyplace\\code\\03-wpf_basic\\01_wpf-ltm\\wpf_ltm\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\wpfapp1\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{120F0B8E-C938-47D0-B697-BFD5CC431E74}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-22T07:51:01.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:50:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyControl.xaml",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\ControlLibrary\\MyControl.xaml",
+              "RelativeDocumentMoniker": "ControlLibrary\\MyControl.xaml",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\ControlLibrary\\MyControl.xaml*",
+              "RelativeToolTip": "ControlLibrary\\MyControl.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T06:46:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyControl.xaml.cs",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\ControlLibrary\\MyControl.xaml.cs",
+              "RelativeDocumentMoniker": "ControlLibrary\\MyControl.xaml.cs",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\ControlLibrary\\MyControl.xaml.cs",
+              "RelativeToolTip": "ControlLibrary\\MyControl.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:48:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlLibrary",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\ControlLibrary\\ControlLibrary.csproj",
+              "RelativeDocumentMoniker": "ControlLibrary\\ControlLibrary.csproj",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\ControlLibrary\\ControlLibrary.csproj",
+              "RelativeToolTip": "ControlLibrary\\ControlLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T06:56:02.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WpfApp1",
+              "DocumentMoniker": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "D:\\System\\Desktop\\StudyPlace\\Code\\03-WPF_Basic\\01_WPF-LTM\\WPF_LTM\\04-x\u540D\u79F0\u7A7A\u95F4\u53CA\u5176\u5E38\u7528\u5143\u7D20\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T06:49:38.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
